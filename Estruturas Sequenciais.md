@@ -18,18 +18,18 @@ Escreva um programa que solicite ao usuário o nome de um produto, seu valor uni
 ### Exercício 06
 Escreva um programa que solicite ao usuário o nome, a idade e a altura de uma pessoa e exiba essas informações formatadas em uma única linha.
 
-____Exemplo:____
+___Exemplo:___
 
-___Digite seu nome: João___
+_Digite seu nome: João_
 
-____Digite sua idade: 30____
+_Digite sua idade: 30_
 
-____Digite sua altura (em metros): 1.75____
+_Digite sua altura (em metros): 1.75_
 
-____Saída Formatada:____
+___Saída Formatada:___
 
-____Nome: João____
+_Nome: João_
 
-____Idade: 30 anos____
+_Idade: 30 anos_
 
-____Altura: 1.75m____
+_Altura: 1.75m_
