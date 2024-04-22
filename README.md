@@ -3,6 +3,6 @@ Desafios de programação para iniciantes praticarem conceitos básicos em qualq
 
 ## Desafios
 
-- [Estrutura Sequências]()
-- [Estrutura Decisão]()
-- [Estrutura de Repetição]()
+- [Estruturas Sequenciais]()
+- [Estruturas de Decisão]()
+- [Estruturas de Repetição]()
