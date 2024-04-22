@@ -15,4 +15,13 @@ Escreva um programa que solicite ao usuário as faltas bimestrais de um aluno e 
 ### Exercício 05
 Escreva um programa que solicite ao usuário o nome de um produto, seu valor unitário e a quantidade vendida no dia. Em seguida, exiba o nome do produto e o valor total das vendas do dia.
 
+### Exercício 06
+Escreva um programa que solicite ao usuário o nome, a idade e a altura de uma pessoa e exiba essas informações formatadas em uma única linha.
 
+Exemplo:
+Digite seu nome: João
+Digite sua idade: 30
+Digite sua altura (em metros): 1.75
+
+Saída Formatada:
+Nome: João, Idade: 30 anos, Altura: 1.75m
