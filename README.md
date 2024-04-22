@@ -3,6 +3,6 @@ Desafios de programação para iniciantes praticarem conceitos básicos em qualq
 
 ## Desafios
 
-- [Estruturas Sequenciais]()
+- [Estruturas Sequenciais](https://github.com/f5-nascimento/code-challenges-for-basic-learning/blob/main/Estruturas%20Sequenciais)
 - [Estruturas de Decisão]()
 - [Estruturas de Repetição]()
